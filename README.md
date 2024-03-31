@@ -2,7 +2,8 @@ Falta mejorar el funcionamiento en navegadores moviles como el de Chrome y Safar
 Funciona correctamente en navegadores de ordenador.
 
 Actualizaciones:
-Añadir una animación de onffeti cuando se termine el quiz.
+
+Añadir una animación de conffeti cuando se termine el quiz.
 
 Corregir el funcionamiento de los botones de opcion en navegadores movil(se solapa con el hover).
 

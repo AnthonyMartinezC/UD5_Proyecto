@@ -1,4 +1,4 @@
-Falta mejorar el funcionamiento en navegadores moviles como el de Chrome y Safari para obtener el 100% de las funcionalidades de la pagina.(Añadir Prefijo de proveedor "-webkit-animation")
+Falta mejorar el funcionamiento en navegadores moviles como el de Chrome y Safari para obtener el 100% de las funcionalidades de la pagina.(Añadir Prefijo de proveedor "-webkit-animation").
 Funciona correctamente en navegadores de ordenador.
 
 Actualizaciones:
